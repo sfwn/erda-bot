@@ -20,3 +20,4 @@ stages:
       - dice:
           params:
             release_id: ${release:OUTPUT:releaseID}
+
